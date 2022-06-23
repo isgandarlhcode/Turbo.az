@@ -1,0 +1,14 @@
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.exe
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.deps.json
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.runtimeconfig.json
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.runtimeconfig.dev.json
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.dll
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.pdb
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.AssemblyInfoInputs.cache
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.AssemblyInfo.cs
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.csproj.CoreCompileInputs.cache
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.dll
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.pdb
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.genruntimeconfig.cache
+C:\Users\Qosmio\Desktop\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.csproj.AssemblyReference.cache

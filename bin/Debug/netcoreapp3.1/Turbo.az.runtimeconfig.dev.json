@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Qosmio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Qosmio\\.nuget\\packages"
+    ]
+  }
+}
